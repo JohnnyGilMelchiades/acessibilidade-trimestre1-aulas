@@ -52,7 +52,6 @@ section {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-  
     gap: 1rem;
 }
 
@@ -141,21 +140,3 @@ h2 {
 .form-control {
     background-color: #F1EDEF;
 }
-
-
-
-/* a partir daqui aula 3.8*/
-/*Definindo o poema no formato centralizado:*/
-
-.poema {
-    white-space: pre-line;  /* Mantém as quebras de linha */
-    text-align: center;     /* Centraliza o texto horizontalmente */
-    font-family: Georgia, serif;
-    line-height: 1.6;
-    margin: 0 auto;         /* Opcional: centraliza o bloco do <p> na página */
-    max-width: 500px;       /* Opcional: define uma largura máxima para o poema */
-  }
-
-
-
-
